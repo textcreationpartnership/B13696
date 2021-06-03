@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd on Easter-day at Oxford, in Saint Peters Church in the East, the accustomed place for the rehearsall sermon on that day wherein is prov'd the Sonne's equality with the Father, the deity of the Holy Ghost, and the resurrection of the same numericall body, against the old, and recent oppugners of these sacred verities. By Richard Gardyner, D.D. and canon of the cathedrall church of Christ in Oxford.</title>
+            <author>Gardiner, Richard, 1591-1670.</author>
+         </titleStmt>
+         <extent>Approx. 47KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13696</idno><idno type="EEBO-CITATION">99857510</idno>
+  <idno type="VID">177634</idno>
+  <idno type="EEBO-PROQUEST">2240885997</idno>
+  <idno type="STC">STC 11570</idno>
+  <idno type="STC">ESTC S122359</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99857510e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13696)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177634)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1098:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd on Easter-day at Oxford, in Saint Peters Church in the East, the accustomed place for the rehearsall sermon on that day wherein is prov'd the Sonne's equality with the Father, the deity of the Holy Ghost, and the resurrection of the same numericall body, against the old, and recent oppugners of these sacred verities. By Richard Gardyner, D.D. and canon of the cathedrall church of Christ in Oxford.</title>
+                  <author>Gardiner, Richard, 1591-1670.</author>
+               </titleStmt>
+               <extent>[8], 31, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield, printer to the Vniversity, for Francis Bowman,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>anno Dom. 1638.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Foxed.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177634:1"/>
+            <pb facs="tcp:177634:1"/>
+            <p>A SERMON PREACH'D ON EASTER-DAY AT OXFORD, IN SAINT PETERS CHVRCH IN THE EAST, the Accustomed place for the REHEARSALL SERMON on THAT DAY: Wherein is prov'd the SONNE'S Equality with the FATHER, the Deity of the Holy GHOST, AND The Resurrection of the same Numericall Body, Against the old, and Recent Oppugners of these Sacred Verities. BY RICHARD GARDYNER, D. D. and Canon of the Cathedrall Church of Christ in OXFORD.</p>
+            <p>OXFORD, Printed by LEONARD LICHFIELD, Printer to the Ʋniversity, for Francis Bowman, Anno Dom. 1638.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:177634:2"/>
+            <pb facs="tcp:177634:2"/>
+            <head>TO THE RIGHT WORSHIPFVLL, AND REVEREND, <hi>DOCTOR BAYLIE,</hi> PRESIDENT OF S<seg rend="sup">t</seg> IOHN Baptist's Colledge, Deane of SARVM, <hi>and the Worthy</hi> Vice-chancelor <hi>of the</hi> VNIVERSITY of OXFORD.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> May seeme to <hi>hazard</hi> your displeasure in <hi>surprizing</hi> you with this <hi>Inscription</hi> be<g ref="char:EOLhyphen"/>yond your expectati<g ref="char:EOLhyphen"/>on, and against your <hi>Assent.</hi> Yet I trust you will pardon my <hi>boldnesse</hi> for not pardoning
+<pb facs="tcp:177634:3"/> your <hi>modesty.</hi> The <hi>matter</hi> being <hi>consign'd by</hi> your <hi>Warrant</hi> to come abroad in <hi>publike</hi> view, I presume you will <hi>deigne</hi> it a safe <hi>con<g ref="char:EOLhyphen"/>duct</hi> vnder your <hi>Name,</hi> since it would be an <hi>injurious</hi> surmise to imagine you are loath to maintaine, and <hi>make good</hi> your owne <hi>hand.</hi> The Preaching, and Printing of the <hi>Argument</hi> is an intire <hi>Act</hi> of my <hi>Obedi<g ref="char:EOLhyphen"/>ence,</hi> which prompts me to beleeve you cannot choose but <hi>protect,</hi> what you so much <hi>ap<g ref="char:EOLhyphen"/>prov'd.</hi> Not long agoe my meane, <hi>obscure</hi> selfe represented the <hi>Person</hi> of our owne much honour'd. <hi>DEANE</hi> in this spirituall <hi>Imployment:</hi> That <hi>task</hi> was <hi>back'd</hi> with good successe, for he freely <hi>guarded</hi> it with his <hi>Tutelar</hi> power, being unwilling what was done in <hi>his service</hi> should be <hi>expos'd</hi> to the <hi>mercy</hi> of the <hi>world,</hi> and left to seeke <hi>forreine</hi> en<g ref="char:EOLhyphen"/>gagements.</p>
+            <p>I know from my owne experience that you are made up of the same <hi>extractions</hi> of <hi>good<g ref="char:EOLhyphen"/>nesse,</hi> and <hi>gentlenesse;</hi> your <hi>affections</hi> alike <hi>poys'd;</hi> your <hi>pulse</hi> beates in as <hi>even,</hi> and as <hi>soft</hi> a temper, there's no <hi>sullennes,</hi> no <hi>rough<g ref="char:EOLhyphen"/>nesse</hi>
+               <pb facs="tcp:177634:3"/> in it. As yet you <hi>dignify</hi> an equall <hi>Dig<g ref="char:EOLhyphen"/>nity</hi> in the <hi>Church;</hi> you <hi>fill up</hi> the <hi>place</hi> of Government with that <hi>generall</hi> applause, which heretofore was <hi>pay'd</hi> as His <hi>due.</hi> And though the <hi>beames</hi> of his <hi>Favour</hi> shine upon me in a more <hi>direct line,</hi> yet I feele the <hi>Re<g ref="char:EOLhyphen"/>flexion</hi> of your <hi>friendlinesse</hi> much <hi>intended</hi> towards me. The <hi>Concurrence</hi> of which <hi>Cir<g ref="char:EOLhyphen"/>cumstances</hi> hath instructed me that my <hi>De<g ref="char:EOLhyphen"/>dication</hi> would be <hi>misplac'd,</hi> if it <hi>pointed</hi> to any but <hi>your selfe.</hi>
+            </p>
+            <p>The <hi>Scope</hi> of the <hi>discourse</hi> suites with the season of the <hi>Day,</hi> &amp; <hi>Times,</hi> in that it vindi<g ref="char:EOLhyphen"/>cates the <hi>Rights</hi> of our <hi>Common Saviour,</hi> and our <hi>interest</hi> in his <hi>merits.</hi> I acknowledge in <hi>sincerity,</hi> not out of adulation, (and yet to Speake <hi>truth</hi> of <hi>some</hi> is rendred in the <hi>Dialect,</hi> and <hi>bad Comment</hi> of the Malevolent to <hi>flatter,</hi>) that by the <hi>piety,</hi> and <hi>prudence</hi> of the <hi>Arch-Angell</hi> of our <hi>Church,</hi> the most vigilant <hi>Sentinell</hi> of our <hi>Vniversity, Socinianisme</hi> is not <hi>discerne<g ref="char:EOLhyphen"/>able</hi> amongst us, although their <hi>bookes</hi> have <hi>Clancularly</hi> crept in, endeavouring to <hi>infect,</hi>
+               <pb facs="tcp:177634:4"/> and <hi>poyson</hi> our <hi>faith.</hi> My <hi>zeale</hi> to the <hi>Primi<g ref="char:EOLhyphen"/>tive Truth,</hi> with which we have been so long, and so happily possess'd, rais'd me to pursue it's just defence, lest the <hi>unexperienc'd</hi> being ensnar'd with the <hi>glaring</hi> appearance of <hi>So<g ref="char:EOLhyphen"/>phisticated</hi> Reason, might be entic'd to <hi>suck up</hi> the <hi>venome</hi> their Rancour hath <hi>dis<g ref="char:EOLhyphen"/>gorg'd.</hi> If they intend to <hi>bargain</hi> with <hi>con<g ref="char:EOLhyphen"/>ceal'd factors</hi> to accomodate them for a <hi>Reply,</hi> let them know they shall not winne so much upon me as to wrest, or extort the least answer, for I meane not to make a <hi>Trade</hi> of writing, especially against such, who would <hi>re<g ref="char:EOLhyphen"/>duce</hi> us to our <hi>first Rudiments,</hi> and put us to prove <hi>Prinicples</hi> not to bee <hi>Controver<g ref="char:EOLhyphen"/>ted.</hi>
+            </p>
+            <p>It is enough, J have discharg'd my duety to <hi>God,</hi> and my <hi>Nation,</hi> in making a plaine <hi>dis<g ref="char:EOLhyphen"/>covery</hi> that the <hi>malice</hi> of their <hi>Tenets</hi> strikes at the <hi>Roote</hi> of Religion, <hi>shakes</hi> the <hi>ground</hi> of our salvation, vilifies the <hi>generally recei<g ref="char:EOLhyphen"/>ved</hi> expositions of the <hi>Orthodox Fathers,</hi> who drew the <hi>water</hi> of <hi>life</hi> nearest to the <hi>Foun<g ref="char:EOLhyphen"/>taine</hi> Head, and makes our owne <hi>particular
+<pb facs="tcp:177634:4"/> Church</hi> to be all this while at <hi>a losse,</hi> by stand<g ref="char:EOLhyphen"/>ing <hi>immoveably</hi> upon the <hi>old way,</hi> without stepping aside to any <hi>crooked by-paths,</hi> which <hi>Crosse</hi> the venerable <hi>foot-steps</hi> of the <hi>Ca<g ref="char:EOLhyphen"/>tholique, Apostolique</hi> Doctrine. Thus ha<g ref="char:EOLhyphen"/>ving <hi>silenc'd</hi> my <hi>penne;</hi> to <hi>suffer</hi> for such a <hi>cause</hi> will be my <hi>triumph,</hi> and I shall gaine the <hi>victory</hi> when they count me <hi>overcom'd.</hi> But I <hi>stay</hi> you too long in the <hi>Porch,</hi> may it please you to looke in, and behold the <hi>building,</hi> on which if you vouchsafe a favourable <hi>glance,</hi> you shall the more oblige me to bee</p>
+            <closer>
+               <signed>Yours ready at your Commands RICHARD GARDYNER.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:177634:5"/>
+            <pb n="1" facs="tcp:177634:5"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>8. CHAP. ROM. vers. 11.</hi>
+                  </bibl>
+                  <p>But if the Spirit of Him that rais'd up Iesus from the dead dwell in you, He that rais'd up Christ from the dead shall also quicken your mortall bodies by his spirit that dwell's in you.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">M</seg>Y message on <hi>Christmas day</hi> was Christ's com<g ref="char:EOLhyphen"/>ming <hi>into</hi> the earth; my <hi>Easter</hi> tidings are that He came <hi>out</hi> of the earth. There He wore the cog<g ref="char:EOLhyphen"/>nisance, and badge of a <hi>servant:</hi> Here He
+<pb n="2" facs="tcp:177634:6"/> did <hi>Lord</hi> it, like a <hi>Soveraigne.</hi> There the Divinity was <hi>ecclips'd</hi> by the <hi>interposition</hi> of his Flesh, He being pleas'd not only to <hi>as<g ref="char:EOLhyphen"/>sume</hi> our Nature but to <hi>yeeld</hi> vnto it. Here the beames of his heavenly Majestie shin'd forth so cleerely, that in the same Nature, which was <hi>conquer'd</hi> He <hi>van<g ref="char:EOLhyphen"/>quish'd</hi> the Conqueror, and put the <hi>Graue</hi> to <hi>flight.</hi> There <hi>Natus est nobis,</hi> here <hi>sur<g ref="char:EOLhyphen"/>rexit pro nobis.</hi> We are concern'd in both, yet our possibility is conditionall, it stands vpon a <hi>But,</hi> and <hi>If: But if the spirit of Him that rais'd vp Iesus from the dead dwell in you. &amp;c.</hi>
+            </p>
+            <p>The words relate the resurrection of Christ in his Body <hi>Naturall,</hi> and <hi>Mysticall.</hi> The same <hi>spirit</hi> is <hi>Agent</hi> in One, and the Other. The maine <hi>Act,</hi> Raising. The <hi>per<g ref="char:EOLhyphen"/>son</hi> rais'd, <hi>Iesus.</hi> The estate <hi>from whence,</hi> from the dead. The <hi>effect,</hi> and <hi>consequent</hi> of Christ's <hi>Antecedent</hi> Rising, the quick<g ref="char:EOLhyphen"/>ning of our mortall Bodies. The condi<g ref="char:EOLhyphen"/>tion requir'd to <hi>qualifie,</hi> and make vs cape<g ref="char:EOLhyphen"/>able
+<pb n="3" facs="tcp:177634:6"/> to rise with Him, the residing, or in<g ref="char:EOLhyphen"/>habiting of the same spirit in vs. <hi>He that raised up Christ from the dead shall allso quic<g ref="char:EOLhyphen"/>ken your mortall bodies by his spirit that dwels in you.</hi>
+            </p>
+            <p>I will begin as the <hi>Spirit</hi> shall enable me with <hi>the Spirit of him</hi> that raised up Iesus from the dead.</p>
+            <p>The <hi>Spirit,</hi> when it referres to the <hi>De<g ref="char:EOLhyphen"/>ity,</hi> may be taken <hi>Essentially,</hi> or <hi>Personally.</hi> The first acception is common to the whole <hi>Trinity,</hi> for <hi>God,</hi> saith Saint <hi>Iohn,</hi>
+               <note place="margin">S Ioh. c. 4. v. 24.</note> is a <hi>Spirit;</hi> simply, and absolutely. The o<g ref="char:EOLhyphen"/>ther signifies a distinct <hi>Manner</hi> of subsist<g ref="char:EOLhyphen"/>ing by way of <hi>Effluence,</hi> or <hi>Emanation,</hi> and that specifies the <hi>Third person,</hi> who by a su<g ref="char:EOLhyphen"/>perexcellency is term'd a <hi>Spirit,</hi> because He is as it were <hi>spir'd,</hi> or breath'd from the <hi>Father</hi> and the <hi>Sonne:</hi> And thus is the word here used.</p>
+            <p>But first we hence observe the <hi>Trinity
+<pb n="4" facs="tcp:177634:7"/> Personall.</hi> The <hi>Third person</hi> is set downe in plaine termes; the <hi>Spirit,</hi> being his usuall name throughout the whole Scripture. The <hi>Father</hi> is intended by the <hi>periphrasis</hi> of him. By <hi>Iesus Christ</hi> the Sonne, the <hi>second person.</hi>
+            </p>
+            <p>Neither is it any disparagement to the sonnes <hi>equality</hi> with the <hi>father</hi> that the holy Ghost is <hi>implicitely</hi> in the text, and ex<g ref="char:EOLhyphen"/>pressely in the 10. of <hi>S. Mathew</hi> stil'd the <hi>Spirit</hi> of the <hi>Father,</hi> for in the 4. to the <hi>Ga<g ref="char:EOLhyphen"/>lathians,</hi> and in the 9. verse of this chapter, he is as truly called the <hi>Spirit</hi> of <hi>Christ.</hi> In the 14. of <hi>S. John</hi> 'tis <hi>Rogabo patrem,</hi> I will entreat the Father to send him. But in the 16. of the same Evangelist hee assumes the authority to himselfe, saying, <hi>ego mittam,</hi> I will send the Comforter, to shew that with the Father he sent him.
+<note place="margin">
+                  <hi>Aqu. part.</hi> 1. <hi>q.</hi> 36. <hi>art.</hi> 4 <hi>in corp. &amp; q.</hi> 37. <hi>art.</hi> 1. <hi>in corp.</hi>
+               </note> We see a ne<g ref="char:EOLhyphen"/>cessity it should bee so. <hi>Nam cum Spirtus sanctus sit Patris, &amp; Filij amor unitivus, vel nexus communis;</hi> for the blessed <hi>Spirit</hi> being the mutuall <hi>love</hi> of the <hi>Father,</hi> and the
+<pb n="5" facs="tcp:177634:7"/>
+               <hi>Sonne;</hi> his <hi>Emission,</hi> or sending forth must be alike from both. Yet because the <hi>Father</hi> is the <hi>fountaine</hi> of <hi>orderly</hi> procession in the <hi>persons,</hi> all the <hi>glory</hi> of the <hi>action</hi> may bee reduc'd to him, in regard 'tis his preroga<g ref="char:EOLhyphen"/>tive to be the <hi>Originall</hi> of life, and glory to the rest.</p>
+            <p>And here, without more adoe, wee are in sincerity to subscribe to the <hi>Deity</hi> of the <hi>holy Ghost.</hi> For seeing his <hi>Personall property</hi> is in the God-head <hi>essentially,</hi> 'tis certaine hee agrees in the Vnity of the divine Es<g ref="char:EOLhyphen"/>sence, because <hi>whatsoever is in God is onely his being.</hi> And indeed how can a sinne a<g ref="char:EOLhyphen"/>gainst the <hi>holy Ghost</hi> make the delinquents lyable to an infinite punishment, unlesse it be because it doth prejudice the <hi>Jnterest</hi> of an <hi>Infinite being?</hi> He who is the Enditer of the Scripture, and testifies the truth to eve<g ref="char:EOLhyphen"/>ry faithfull soule hath beene punctuall herein to <hi>take away mistaking.</hi> For <hi>Ananias</hi> his Lying to the <hi>holy Ghost</hi> in the 5. of the Acts, and the third is explained in the very
+<pb n="6" facs="tcp:177634:8"/> next verse to be all one as to <hi>ly to God.</hi> To let us know the mighty worke of <hi>Creation ownes</hi> him as well as the Father, and the Sonne, 'tis registred in the 33. of <hi>Iob,</hi> the <hi>Spirit</hi> of the Lord hath made me, and the <hi>breath</hi> of the Allmighty gave me life. And if so; then he hath a <hi>Reall subsistence,</hi> and is not a meere <hi>Motion,</hi> or quality in <hi>God,</hi> as the <gap reason="foreign" resp="#oxf" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>of old, and <hi>Socinus</hi> of late blaspheme. I will not beate that forlorne heresy any farther, there's enough to cleare the <hi>point</hi> in his <hi>raising up</hi> Iesus from the <hi>dead,</hi> an effect, which none but the <hi>supre<g ref="char:EOLhyphen"/>mest cause</hi> can produce.</p>
+            <p>And indeed it was needfull for S. <hi>Paul</hi> to rest, and <hi>anchor</hi> this wondrous <hi>Act</hi> upon an omnipotent Agent. For the estate of the dead in the eyes of men, and in the conceit of Christs <hi>chiefe</hi> followers was lost, and desperate; so that wee should never have believed that death, and the grave would let goe their <hi>hold,</hi> and part with their <hi>prey,</hi> were it not that wee have the Apostles
+<pb n="7" facs="tcp:177634:8"/> word, nay Gods owne deed for it. The disciples that went to <hi>Emaus</hi> had their soules so appall'd, and their hearts so dead within them, when they saw the onely <hi>staffe</hi> of their comfort quite <hi>burst</hi> in pieces, and <hi>block'd</hi> vp within a Pile of stone, that through weaknesse of faith they were al<g ref="char:EOLhyphen"/>most at a <hi>Non-plus.</hi> We, say they, as it is in the 24. of Saint <hi>Luke, did</hi> hope, (see, now they <hi>doe not</hi>) that He <hi>should</hi> haue redee<g ref="char:EOLhyphen"/>med <hi>Israel.</hi> And <hi>Peter</hi> himselfe, who be<g ref="char:EOLhyphen"/>fore bore record of his <hi>Divinity,</hi>
+               <note place="margin">S. Ioh. cap. 6.</note> when he averr'd thou art <hi>that</hi> Christ the <hi>Sonne</hi> of <hi>God,</hi> now comming to his tombe, and not finding him there, went away <hi>wondring</hi> with himselfe at what had happen'd, in the 12. verse of Saint <hi>Luk's</hi> former Chap<g ref="char:EOLhyphen"/>ter. So that those words of <hi>David</hi> in the 30. <hi>Ps.</hi> may well befitt this blessed <hi>Sonne</hi> of <hi>David. What profitt is there in my blood when J goe downe to the pitte? Shall the dust giue thanks to thee? Or shall it declare thy truth?</hi>
+            </p>
+            <pb n="8" facs="tcp:177634:9"/>
+            <p>Our <hi>Saviour</hi> foreknew how gladly they would perswade themselves, and o<g ref="char:EOLhyphen"/>thers that he was a spirit, or it was a sha<g ref="char:EOLhyphen"/>dow, a phansie that deluded his disciples, and therefore to stop the mouth of malice hee frequently appeared to them. Hee did not so familiarly present himselfe to their company as before his death,
+<note place="margin">
+                  <hi>Aq.</hi> 3. <hi>part. q.</hi> 54. <hi>art.</hi> 3. <hi>&amp; q.</hi> 55. <hi>art.</hi> 6.</note> that they might know his body was <hi>Alterius gloriae</hi> a glorified body. Yet hee did oft converse with them, to shew his body was <hi>ejusdem naturae,</hi> the same individuall body. He did eat in their presence, not often to informe them <hi>Aberat esuriendi necessitas,</hi> he was to hunger, and thirst no more. Yet he did not altogether abstaine from meat, they gave him a piece of a broyled fish,
+<note place="margin">
+                  <hi>Aqu. sup<g ref="char:EOLhyphen"/>plem.</hi> 3. <hi>part. q.</hi> 81. <hi>art.</hi> 4. <hi>Part.</hi> 1. <hi>q.</hi> 51. <hi>art.</hi> 3. <hi>ad</hi> 5.</note> and hony combe, and he truly ate before them, to assure them <hi>Aderat edendi potestas,</hi> that hee rose in his humane body, since it had a <hi>na<g ref="char:EOLhyphen"/>turall capacity</hi> to receive sustenance, though the converting it into nutriment was dis<g ref="char:EOLhyphen"/>pens'd with, in regard there was no need of it. Hee would make their <hi>eyes</hi> and
+<pb n="9" facs="tcp:177634:9"/>
+               <hi>hands</hi> his witnesses, behold my hands, and my feet, It is <hi>I my selfe;</hi> handle, and see, a spirit hath not <hi>flesh,</hi> and <hi>bones,</hi> as you see Me have. To <hi>Mary Magdalen</hi> he said, <hi>Noli me tangere,</hi> touch me not, to signify <hi>Immor<g ref="char:EOLhyphen"/>talitatem dederat,</hi> hee had cloath'd it with immortality. To his disciples, <hi>videte &amp; palpate,</hi>
+               <note place="margin">
+                  <hi>S. August. ep.</hi> 57.</note> to give security <hi>Naturam non ab<g ref="char:EOLhyphen"/>stulerat,</hi> he had not chang'd the substance, but the quality.</p>
+            <p>In the one he shewed <hi>gloriam resurgentis,</hi>
+               <note place="margin">
+                  <hi>Aq.</hi> 3. <hi>part. q.</hi> 55. <hi>art.</hi> 3. <hi>in corp.</hi>
+               </note> the rare endowments hee had adorn'd it with upon his rising; in the other hee de<g ref="char:EOLhyphen"/>clared <hi>Veritatem resurectionis,</hi> the evident truth of his Resurrection.</p>
+            <p>Saint <hi>Peter</hi> became hereupon so well catechis'd that hee told the Iewes in a full assembly, <hi>Him,</hi> whom you have slaine, and crucified, <hi>this Iesus</hi> hath God raised up, <hi>Act.</hi> 2. <hi>Him,</hi> whom you have deny'd, be<g ref="char:EOLhyphen"/>tray'd, and kill'd, <hi>Him,</hi> hath God rais'd, <hi>Act.</hi> 3. Yet this doth not derogate from the
+<pb n="10" facs="tcp:177634:10"/> glory of Christ that <hi>Deus suscitavit,</hi> God raised him up, is so much repeated, for though as the <hi>Sonne of man</hi>
+               <gap reason="foreign" resp="#oxf" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Hee was raised up, 1. <hi>Cor.</hi> 15. yet <hi>as the Sonne of God</hi>
+               <gap reason="foreign" resp="#oxf" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. He rose againe, and re<g ref="char:EOLhyphen"/>viv'd to be Lord both of quick, and dead. <hi>Rom.</hi> 14.9. As the <hi>Father</hi> hath life in him<g ref="char:EOLhyphen"/>selfe, so hath the <hi>Sonne</hi> life in himselfe. <hi>Joh.</hi> 5. Hee had power to <hi>Lay downe</hi> his owne life, and he had power to <hi>take it up</hi> againe. <hi>Joh.</hi> 10. The rage of the Iewes destroyed the Temple; in 3. dayes hee built it up a<g ref="char:EOLhyphen"/>gaine; he spake, and performed it in the <hi>Temple</hi> of his <hi>Body.</hi>
+            </p>
+            <p>Thus was He <hi>Primitiae dormientium,</hi> the first fruits of them that slept, not because he dyed before all men, or was raised be<g ref="char:EOLhyphen"/>fore all others, but in that he was the onely one that raised himselfe from death. They rose <hi>iteram morituri,</hi>
+               <note place="margin">
+                  <hi>Aq.</hi> 3. <hi>part. q.</hi> 53. <hi>art.</hi> 3.</note> to dye againe, but Christ is risen, and dyes no more. He rose by the power of his <hi>Deity;</hi> which was <hi>hypostatically</hi> united, they were raised by
+<pb n="11" facs="tcp:177634:10"/> he vertue of his rising, for 'tis true of his resurrection, which is sayed of his blood, <hi>prius profuit quàm fuit,</hi>
+               <note place="margin">S. Bern.</note> it was effectuall before it was actuall. Hence is my Apostle so positive, <hi>He which raised up Iesus from the dead shall also quicken your mortall bodies.</hi>
+            </p>
+            <p>A benefit so sure that in the 2. to the <hi>Ephesians,</hi> and the 6, wee are all ready risen with him, and estated in <hi>possession</hi> of those heavenly mansions, though yet we be but <hi>in expectation,</hi> For there must be a corre<g ref="char:EOLhyphen"/>spondence betwixt him, which is the <hi>Head,</hi> and us the <hi>Members,</hi> and unlesse we imagine the <hi>body</hi> of <hi>Christ</hi> like that Vide<g ref="char:EOLhyphen"/>ous image, whose <hi>Head</hi> was gold,
+<note place="margin">Dan. 2.</note> and <hi>Feet</hi> clay, our <hi>glorious</hi> Head must needs have <hi>glorified</hi> members.</p>
+            <p>It was the Tenet of <hi>Entychius</hi> some<g ref="char:EOLhyphen"/>times Bishop of <hi>Constantinople,</hi>
+               <note place="margin">
+                  <hi>Aq.</hi> 3. <hi>part. q.</hi> 54. <hi>art.</hi> 2. <hi>&amp; supplem.</hi> 3. <hi>part. q.</hi> 79. <hi>art.</hi> 1.</note> that our earthly Tabernacles, which must be com<g ref="char:EOLhyphen"/>mitted to the dust, were too meane to bee restored, and renewed at the last day, so
+<pb n="12" facs="tcp:177634:11"/> that hee thought the blessed soules should in stead of them bee invested with other bodies, of a strange, I know not what <hi>sub<g ref="char:EOLhyphen"/>limated</hi> substance. The same <hi>Chymena</hi> it <hi>hatch'd</hi> againe by the <hi>Socinians</hi> now, who would seeme more <hi>subtile</hi> then all that have beene before them, when indeed their boundles errours demonstrate them more <hi>brainsicke</hi> then the former. <hi>Smalcius</hi> in the name of his <hi>incredulous</hi> Fraternity pronounceth this desperate position, <hi>Cor<g ref="char:EOLhyphen"/>pora haec,</hi>
+               <note place="margin">Smiglec. exam. cent. error.</note>
+               <hi>quae nunc circumferimus resurrecto<g ref="char:EOLhyphen"/>ra non credimus.</hi>
+            </p>
+            <p>Were they not given over to the spirit of <hi>contradiction</hi> they might read their con<g ref="char:EOLhyphen"/>futation in the <hi>Etymon</hi> of the word.
+<note place="margin">
+                  <hi>Aq. sup<g ref="char:EOLhyphen"/>plem.</hi> 3. <hi>part. ex Damasc.</hi>
+               </note> For what is <hi>Resurrectio, nisi iterata, vel secunda ejus, quod cecidit surrectio?</hi> But a restitution of the same thing, which once perished, and was gone? And therefore the very flesh turned to corruption, and resolved into ashes must in the same nature, and manner returne to it selfe, else it cannot
+<pb n="13" facs="tcp:177634:11"/> properly be termed a Resurrection.</p>
+            <p>Besides, if our particular bodies shall not rise againe, then we our owne parti<g ref="char:EOLhyphen"/>cular selues shall never be reviv'd. <hi>Nam hic numero dicitur ab vnitate Corporis, aeqùe ac animae.</hi> For the <hi>individuating,</hi> or making a man to be <hi>numerically,</hi> one and the same, depends as well from the <hi>Identity,</hi> or one<g ref="char:EOLhyphen"/>nesse of the <hi>body,</hi> as of the <hi>soule.</hi>
+            </p>
+            <p>Saint <hi>Paul</hi> foresaw some <hi>cavilling</hi> spi<g ref="char:EOLhyphen"/>rits would plead for a <hi>mutation</hi> of bodies when the last trump shall found, and thereupon he <hi>fortifies</hi> against them with a significant, and powerfull proposition, <hi>This corruptible must put on incorruption; This mortall must put on immortality.</hi> He i<g ref="char:EOLhyphen"/>terates the pronoune, <hi>This</hi> corruptible; <hi>This</hi> mortall to perswade the <hi>certainty</hi> of raising the <hi>same,</hi> naturall, humane body. He ingeminates the <hi>Oportet,</hi> This corrup<g ref="char:EOLhyphen"/>tible <hi>must,</hi> This mortall <hi>must;</hi> to warrant the <hi>necessity</hi> of the performance: The te<g ref="char:EOLhyphen"/>nour
+<pb n="14" facs="tcp:177634:12"/> of his speech is so earnest that hee seemes to clappe <hi>himselfe</hi> upon the <hi>breast,</hi> and to point with his finger at his <hi>owne body.</hi> This <hi>Identicall</hi> thing; this <hi>Idem nu<g ref="char:EOLhyphen"/>mero.</hi> not an other instead of this, but <hi>this corruptible, which I now carry about me,</hi> This mortall, <hi>which shall lodge in the bowells</hi> of the earth, <hi>maugre</hi> the jawes, and belly thereof, shall be rescu'd thence, and setled in <hi>Eternity;</hi> which is a pregnant proofe that by affirming <hi>flesh and blood shall not in<g ref="char:EOLhyphen"/>herit the king dome of heaven,</hi>
+               <note place="margin">
+                  <hi>Greg. Mag. c.</hi> 29. <hi>expos. moral. in cap.</hi> 19. Iob.</note>
+               <hi>Non exclusit naturam, sed culpam,</hi> hee excluded not the nature, and <hi>substance,</hi> but the <hi>enormous pravity</hi> to which 'tis subject in this state of <hi>infirmity.</hi> Whereupon it immediately followes by way of Comment on what went before, neither shall <hi>corruption</hi> inhe<g ref="char:EOLhyphen"/>rit <hi>incorruption.</hi> Flesh, and blood <hi>tainted</hi> with corrupt lusts shall not be admitted, but as <hi>refined,</hi> and <hi>purified,</hi> it shall finde a place in heaven.</p>
+            <p>For why should not the flesh, which
+<pb n="15" facs="tcp:177634:12"/> hath bin <hi>Co-worker,</hi> and <hi>Ioint-martyr</hi> with the soule, participate a proportionable <hi>guerdon</hi> as well as the soule?
+<note place="margin">Ezek <hi>cap.</hi> 18. <hi>v.</hi> 25.29.</note>
+               <hi>God</hi> proclaims in the 18. of <hi>Ezekiell</hi> that his wayes are <hi>equall,</hi> how then can it stand with <hi>his ju<g ref="char:EOLhyphen"/>stice</hi> that <hi>one</hi> body shall victoriously fight his battles, and <hi>an other,</hi> which never <hi>ap<g ref="char:EOLhyphen"/>peared</hi> in the quarrell bee honoured with the <hi>Crowne?</hi> If the <hi>Materiall</hi> halfe of us <hi>va<g ref="char:EOLhyphen"/>nish</hi> in our dissolution, in vaine did <hi>Christ</hi> take our <hi>shape</hi> upon him; for if our <hi>flesh</hi> must bee utterly destroyed, it had beene sufficient onely to assume our <hi>spirit?</hi> To what end are wee wished at his <hi>second</hi> comming to <hi>lift up our heads</hi> in triumph,
+<note place="margin">S. Luk. <hi>cap.</hi> 21. <hi>v.</hi> 26.</note> if the <hi>whole body</hi> shall be consumed to a <hi>Nul<g ref="char:EOLhyphen"/>lity?</hi> The truth is, the <hi>Socinian conclusion is</hi> consonant to their heartlesse, disconsolate <hi>premisses.</hi> For well may they believe their bodies shall not be restored, &amp; <hi>quickned by Christ,</hi> so long as they hold <hi>no price</hi> was payed for their recovery. For as the <hi>Savi<g ref="char:EOLhyphen"/>our</hi> of the world will never see them pe<g ref="char:EOLhyphen"/>rish who dye in the <hi>faith</hi> of him their <hi>Re<g ref="char:EOLhyphen"/>deemer,</hi>
+               <pb n="16" facs="tcp:177634:13"/> so 'tis justly to be feared he will suf<g ref="char:EOLhyphen"/>fer those to be lost, who <hi>reject</hi> his <hi>Redemp<g ref="char:EOLhyphen"/>tion.</hi> But to us, who give heed to his divine word as to a <hi>light</hi> shining in <hi>darknesse,</hi> the <hi>old,</hi> and <hi>new</hi> Testament hath said enough to make us undoubtedly expect that every <hi>Atome</hi> of our dust, and <hi>Cinders</hi> shall be ga<g ref="char:EOLhyphen"/>thered together, and <hi>enliven'd</hi> by the <hi>pro<g ref="char:EOLhyphen"/>per</hi> soule, and that with <hi>these eyes</hi> we shall see <hi>God,</hi> and <hi>no other</hi> for us, as holy <hi>Iob</hi> speakes.
+<note place="margin">S. Ioh. <hi>cap.</hi> 5. <hi>v.</hi> 28.29.</note> Saint <hi>Iohn</hi> doth fully expresse this Article; the <hi>houre</hi> shall come, in which all that are in the <hi>grave</hi> shall <hi>heare</hi> his voice, and <hi>come forth.</hi> The <hi>Evangelicall</hi> Prophet <hi>Esay</hi> in his 26. Chapter is most Emphati<g ref="char:EOLhyphen"/>call. The <hi>dead</hi> men shall rise, together with <hi>my body</hi> shall they rise, that is when <hi>I rise,</hi> all the <hi>dead</hi> shall <hi>rise:</hi> Awake, and sing yee that dwell in the <hi>dust,</hi> the Earth shall <hi>cast out</hi> the dead.</p>
+            <p>But because they advance <hi>Reason</hi> to stand in <hi>Competition</hi> with Faith, we will allow it a <hi>share,</hi> holding it inconvenient to
+<pb n="17" facs="tcp:177634:13"/> frame a bill of <hi>divorce</hi> betwixt them, then it cannot bee deny'd that <hi>Right</hi> na<g ref="char:EOLhyphen"/>turall <hi>Reason</hi> guided by the <hi>Spirit</hi> of <hi>Grace,</hi> and <hi>light</hi> of the <hi>Word</hi> hath a profitable use to <hi>illustrate points</hi> of beleife.
+<note place="margin">
+                  <hi>Aq. part.</hi> 1. <hi>q.</hi> 1. <hi>art.</hi> 8. <hi>ad</hi> 2.</note>
+               <hi>Nam cum Gratia nontollat naturam sed perficiat, opor<g ref="char:EOLhyphen"/>tet vt naturalis ratio fidei subserviat,</hi> as the Schooleman well teacheth. The better to <hi>foyle</hi> these <hi>Goliahs</hi> with their owne <hi>wea<g ref="char:EOLhyphen"/>pon,</hi>
+               <note place="margin">
+                  <hi>Aq. part.</hi> 1. <hi>q.</hi> 29. <hi>art.</hi> 1. <hi>ad</hi> 5. <hi>&amp; Cont. Gent. l.</hi> 4. <hi>c.</hi> 79.</note> let vs consider <hi>quòd Anima seperata retinet naturam vnibilitatis,</hi> that</p>
+            <p>The <hi>Soule</hi> in her seperation <hi>naturally</hi> inclines to be <hi>consociated</hi> with the body, because shee <hi>naturally</hi> desires to bee <hi>freed</hi> from that <hi>imperfection</hi> she stands in while she is a <hi>sever'd</hi> part from the <hi>whole,</hi> and so we shall be compell'd by reason to grant their <hi>Revnion,</hi> and consequently a <hi>Re<g ref="char:EOLhyphen"/>surrection,</hi> since their permanent, conti<g ref="char:EOLhyphen"/>nu'd <hi>disvnion</hi> being against nature cannot be <hi>perpetuall.</hi> Besides</p>
+            <p>If man before he receiv'd his constitu<g ref="char:EOLhyphen"/>tion
+<pb n="18" facs="tcp:177634:14"/> was <hi>potentially</hi> in the <hi>dead</hi> Elements, out which he was extracted, and in like manner after his dissolution remaines <hi>po<g ref="char:EOLhyphen"/>tentially</hi> in the same <hi>Masse,</hi>
+               <note place="margin">
+                  <hi>Iust. Mart. ad qu. &amp; Resp. Graec.</hi> if that book be his.</note> why should in<g ref="char:EOLhyphen"/>credulous nature <hi>shrink</hi> at the possibility of raising the <hi>dead,</hi> since the <hi>God</hi> of nature can as easily <hi>new-cast</hi> Man, as he did actually <hi>mold</hi> him out of a <hi>potentiall</hi> being in his first <hi>Principles?</hi>
+            </p>
+            <p>The <hi>Rock</hi> out of which we were hewen, the bodies we move, and walk in doe sufficiently perswade that he, which of a little <hi>seed,</hi> or <hi>blood</hi> could fashion a <hi>li<g ref="char:EOLhyphen"/>ving</hi> man in the <hi>Wombe,</hi> and so produce him into the world, knowes how out of dry, and <hi>rotten</hi> bones to <hi>cloath</hi> him with the <hi>same shape,</hi> which he himselfe at first <hi>bestow</hi>'d vpon him. His ability to worke the <hi>Cure</hi> is illustrious in his former acti<g ref="char:EOLhyphen"/>ons, for did he not establish this ample world, and all things in it with a <hi>word,</hi> one<g ref="char:EOLhyphen"/>ly with a <hi>Fiat?</hi> And is his <hi>Arme</hi> so <hi>shorten'd</hi> since that he cannot <hi>recollect</hi> our
+<pb n="19" facs="tcp:177634:14"/>
+               <hi>dispersed</hi> matter lying <hi>couchant</hi> in the earth, the sea, or whatsoever substance else?</p>
+            <p>The <hi>verdit</hi> of sense will passe on our side; for who sees not <hi>minus est reparare quod erat, quam fecisse quod non erat?</hi> It is a worke of much lesser power to <hi>restore</hi> that, which sometimes was, then to <hi>Cre<g ref="char:EOLhyphen"/>ate</hi> that, which never had bin. Why dost thou wonder saith <hi>Tertullian</hi> that God should revive thee being dead? He that at first made thee of a <hi>Clod</hi> of Earth, can <hi>refine</hi> thee out of a <hi>Clod</hi> of Earth. <hi>Qui non eras, factus<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es; Qui non eris fies.</hi> Thou,
+<note place="margin">Tertull. Apologet. advers. Gent.</note> which wert not, art now made, and againe, when thou shalt not be, thou shalt be made. Yeeld me the <hi>meanes</hi> by which thou wert <hi>made,</hi> and then enquire after the <hi>meanes</hi> by which thou shalt be <hi>rais</hi>'d.</p>
+            <p>The continuall <hi>course</hi> of <hi>nature</hi> in the <hi>digestion</hi> of the food brings a forcible <hi>Re<g ref="char:EOLhyphen"/>monstrance</hi> that the Resurrection is not in<g ref="char:EOLhyphen"/>credible. Out of the <hi>Earth</hi> comes the
+<pb n="20" facs="tcp:177634:15"/>
+               <hi>bread</hi> we eate, that <hi>bread</hi> after it passeth through severall <hi>concoctions</hi> is alter'd and chang'd into <hi>blood,</hi> then convey'd through<g ref="char:EOLhyphen"/>out the parts of the body, and at last at<g ref="char:EOLhyphen"/>taines to be even of the <hi>very substance,</hi> and nature with the body. Now tell me what strange difference is there betwixt this, and the <hi>quickning</hi> of our mortall bodies. In this, that, which was <hi>Earth,</hi> and sprung out of the <hi>Earth,</hi> becomes <hi>flesh</hi> in <hi>substance,</hi> which before it was not; in the <hi>Numeri<g ref="char:EOLhyphen"/>call</hi> resurrection, that, which was <hi>flesh,</hi> and after turn'd into <hi>Earth</hi> becomes <hi>flesh</hi> againe in the <hi>same</hi> nature, which before it was. If that were not dayly, and <hi>ordinary,</hi> this new &amp; <hi>extraordinary,</hi> the <hi>difficulty</hi> would appeare no <hi>greater</hi> in the One, then in the Other. I could drawe arguments from the whole <hi>booke</hi> of <hi>Nature,</hi> for every <hi>leafe</hi> therein is a <hi>Commentary</hi> vpon this doctrine.</p>
+            <p>We may behold a <hi>tall</hi> lofty <hi>tree</hi> to arise out of a little <hi>seed.</hi> If you demande, saith <hi>Gregory</hi> the <hi>Great, vhi latet fortitudo ligni,
+<pb n="21" facs="tcp:177634:15"/> asperitas corticis? viriditas foliorum?</hi>
+               <note place="margin">
+                  <hi>Greg. Mag. c.</hi> 28. <hi>in c.</hi> 19. Iob.</note> whence was deriv'd the <hi>solidity</hi> of the wood? the <hi>superficiall</hi> roughnesse of the <hi>barke?</hi> the <hi>flourishing</hi> greennesse of the leaues? expe<g ref="char:EOLhyphen"/>rience testifies it proceeded from the <hi>spreading</hi> vertue, which lay <hi>treasur'd</hi> vp in the <hi>seed.</hi> what marvaile then if He that from a small <hi>seed</hi> dayly <hi>extracts</hi> the wood, fruit, and leaues in the <hi>trunke,</hi> and <hi>branches</hi> of a tree, doth likewise <hi>reduce</hi> bones, veynes, and haire out of the least <hi>remainder</hi> of our <hi>dust?</hi> And having <hi>grafted</hi> them in<g ref="char:EOLhyphen"/>to the former <hi>stock</hi> of the same <hi>flesh,</hi> com<g ref="char:EOLhyphen"/>mands againe <hi>breath,</hi> and warmeth into that <hi>flesh, blood</hi> into those <hi>veines, strength</hi> in<g ref="char:EOLhyphen"/>to those <hi>bones,</hi> and <hi>beautifies</hi> those heires with a fresher <hi>hew. Tertullian</hi> thought good to demonstrate the resurrection from the <hi>Phoenix,</hi> springing vp <hi>new-liv'd</hi> out of her owne <hi>ashes;</hi> from the <hi>flyes</hi> lying dead all the <hi>Winter,</hi> and reviving with the <hi>heate</hi> of the <hi>Sunne</hi> in the <hi>Summer;</hi> from the dayes <hi>expiring</hi> at <hi>night,</hi> and rising next morne <hi>attir'd</hi> with <hi>light;</hi> from the Earths
+<pb n="22" facs="tcp:177634:16"/>
+               <hi>decay</hi> in the <hi>Winter,</hi> and its <hi>budding,</hi> and blossoming in the <hi>Spring,</hi> &amp; so concludes <hi>omnia pereundo servantur, omnia interitu re<g ref="char:EOLhyphen"/>formantur,</hi> all things are <hi>preserv'd</hi> by pe<g ref="char:EOLhyphen"/>rishing, and <hi>perfected</hi> by dying. Whence it inevitably followes that <hi>Man,</hi> the <hi>Lord</hi> and master of the <hi>vniverse,</hi> for whose sake the Creatures partake their thriving <hi>vicis<g ref="char:EOLhyphen"/>situdes</hi> cannot dye for ever; since 'tis not probable he should be <hi>exceeded</hi> in perfecti<g ref="char:EOLhyphen"/>on by such <hi>inferiors</hi> which were made to <hi>serue</hi> him, but his <hi>death</hi> must needs be bet<g ref="char:EOLhyphen"/>ter then his former <hi>life,</hi> because out of it he shall not meerely be <hi>restor'd</hi> to what he <hi>lost,</hi> but be possess'd of much more then ever before he had <hi>title</hi> to. He shall not onely be <hi>reviu'd,</hi> but rise vp, and <hi>flourish</hi> too: for so much lies open in the verbe <gap reason="foreign" resp="#oxf" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>shall <hi>quicken;</hi> He which rais'd Christ from the dead shall also <hi>quicken,</hi> which is the <hi>benefit</hi> that redounds to vs, vpon the raising of our mortall bodies.</p>
+            <p>
+               <hi>Oecumenius</hi> observes the <hi>Apostle</hi> sayes
+<pb n="23" facs="tcp:177634:16"/> not <gap reason="foreign" resp="#oxf" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but <gap reason="foreign" resp="#oxf" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to put a diffe<g ref="char:EOLhyphen"/>rence betwixt raising the <hi>Iust,</hi> &amp; <hi>vnjust.</hi> All shall have <gap reason="foreign" resp="#oxf" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, their rising againe to <hi>life,</hi> but all shall not be <hi>quickn'd.</hi>
+               <gap reason="foreign" resp="#oxf" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>is of a larger extent then <gap reason="foreign" resp="#oxf" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, it is not to <hi>life</hi> alone, but <gap reason="foreign" resp="#oxf" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to life, and <hi>glory.</hi> Such as despise God, and good<g ref="char:EOLhyphen"/>nesse shall <hi>wake</hi> out of the <hi>dust,</hi> but to per<g ref="char:EOLhyphen"/>petuall shame, and <hi>confusion.</hi> They shall rise in the list, and <hi>bed-roll</hi> of obdurate, im<g ref="char:EOLhyphen"/>penitent sinners, to <hi>endlesse</hi> torments. They shall not be <hi>quickn'd</hi> in the <hi>Ranke</hi> of Saints to liue with <hi>Christ</hi> in the sight of <hi>God.</hi> It were well with these <hi>Wretches</hi> if the <hi>Sea,</hi> and the <hi>Graue</hi> might still <hi>retaine</hi> them; for 'tis to be wish'd rather to knowe nothing after death, then to be rais'd to heare that <hi>fearefull</hi> sentence, <hi>Goe yee cursed into ever<g ref="char:EOLhyphen"/>lasting fire.</hi>
+               <note place="margin">Iob. 19.</note> Better still to say to the wormes, you are my <hi>brethren,</hi> and <hi>sisters,</hi> and to corruption, thou art my <hi>mother,</hi> then having broke off <hi>alliance</hi> with them, to be in a farre worse <hi>family</hi> of <hi>damned</hi> Spirits, and <hi>tormented</hi> Ghosts. 'Tis remarkeably
+<pb n="24" facs="tcp:177634:17"/> set downe in the 27. of S. <hi>Mathew</hi> that when <hi>Christ</hi> rose,
+<note place="margin">S. Mat. 27.52.</note> many dead bodies of the <hi>Saints</hi> arose. Not one <hi>wicked</hi> man did rise when <hi>Christ</hi> rose, to <hi>premonish</hi> vs that none shall feele the <hi>benefit</hi> of his <hi>quickning Spirit</hi> but such who are <hi>incorporated</hi> into Him by a liuely <hi>faith.</hi>
+            </p>
+            <p>Life, sense, and motion, the <hi>vnion</hi> of the body, and soule, with the <hi>vnseperable</hi> facul<g ref="char:EOLhyphen"/>ties of them both, are the <hi>endowments</hi> of nature, and though they suffer dissolution, Christ doth <hi>restore</hi> these to all with whom He did <hi>Communicate</hi> in nature. Im<g ref="char:EOLhyphen"/>mortall <hi>peace,</hi> &amp; <hi>glory</hi> are the gifts of God; <hi>Christ</hi> hath <hi>appropriated</hi> these onely to those, who <hi>persevere</hi> in saving grace. He is <hi>Judge</hi> of <hi>all,</hi> and shall raise <hi>all;</hi> He is <hi>head</hi> of his owne <hi>body,</hi> and shall <hi>quicken</hi> his owne <hi>members.</hi> As <hi>Judge,</hi> He shall draw all to his <hi>tribunall</hi> seate, and in flaming fire shall render <hi>vengeance</hi> to them that have not knowne <hi>God,</hi>
+               <note place="margin">2. Thes. 1.</note> nor obey'd the <hi>Gospell.</hi> As <hi>head,</hi> He knowes his owne
+<pb n="25" facs="tcp:177634:17"/>
+               <hi>members;</hi> and the <hi>cloud</hi> shall <hi>catch</hi> them vp,
+<note place="margin">1. Thess. 4.</note> and they shall liue for ever with the <hi>Lord</hi> in permanent <hi>felicity.</hi> Though their bo<g ref="char:EOLhyphen"/>dies in this transitory state be mortall, vile bodies which must be <hi>destroy'd,</hi> yet I can<g ref="char:EOLhyphen"/>not set out the <hi>glory</hi> of them, when they shall be <hi>quickn'd</hi> in the <hi>generall</hi> resurrecti<g ref="char:EOLhyphen"/>on. 'Tis <hi>sowne a naturall body,</hi> saith S. <hi>Paul,</hi> 'tis rais'd a <hi>spirituall</hi> body. Not as if it should be without the <hi>parts,</hi> and <hi>dimensi<g ref="char:EOLhyphen"/>ons</hi> which our bodies now have, but in re<g ref="char:EOLhyphen"/>gard of the <hi>condition</hi> it shall then rest in.</p>
+            <p>When our bodies rise <hi>glorify'd,</hi> they will be <hi>enrich'd</hi> with such a spirituall <hi>qua<g ref="char:EOLhyphen"/>lity</hi> that like <hi>spirits</hi> they shall be <hi>sustain'd</hi> by the <hi>power</hi> of <hi>God</hi> without the helpe of all <hi>naturall</hi> meanes. Some thinke they are call'd <hi>spirituall</hi> bodies in respect of their <hi>operation,</hi> their strength, and <hi>agility</hi> being so great, <hi>vt licet adsit motio, absit fatigatio,</hi>
+               <note place="margin">
+                  <hi>Aq.</hi> 3. <hi>part. q.</hi> 54. <hi>art.</hi> 2.</note> that in the pure heaven aboue the cloudes they will move <hi>vpward,</hi> and <hi>downeward,</hi> or what way they <hi>please,</hi> without <hi>defatiga<g ref="char:EOLhyphen"/>tion,</hi>
+               <pb n="26" facs="tcp:177634:18"/> whereas now we cannot so much as walke <hi>forword,</hi> or performe any act with<g ref="char:EOLhyphen"/>out <hi>wearinesse.</hi> I conceive that exposition, which the Master of the Schooles addes in the 3.
+<note place="margin">
+                  <hi>Q.</hi> 54. <hi>ar.</hi> 1.</note>
+               <hi>part</hi> of his <hi>Summes,</hi> to be most <hi>sa<g ref="char:EOLhyphen"/>tisfying.</hi> The bodies, saith he, which shall be <hi>quickn'd,</hi> are term'd <hi>spirituall,</hi> because in that state of <hi>glory</hi> the body shall be wholy subject to the <hi>spirits direction</hi> without <hi>re<g ref="char:EOLhyphen"/>luctation,</hi> or strugling of the flesh. There shall be no complaint that the <hi>law</hi> of the <hi>members</hi> rebell against the <hi>law</hi> of the <hi>mind,</hi> but the <hi>spirit</hi> shall be <hi>all</hi> in <hi>all,</hi> leading, and guiding our bodies in all <hi>holy</hi> duties. O<g ref="char:EOLhyphen"/>thers to magnifie their future <hi>eminency</hi> al<g ref="char:EOLhyphen"/>lott them a subtle, <hi>penetrating</hi> power; whereby they become able to pierce through any <hi>solid</hi> obstacle with as much <hi>facility</hi> as we passe through the water, or ayre.</p>
+            <p>We will let slippe these <hi>subtleties,</hi> being desirous to be <hi>thankfull,</hi> and not <hi>curious.</hi> 'Tis enough we are assur'd our <hi>fraile</hi> bo<g ref="char:EOLhyphen"/>dies
+<pb n="27" facs="tcp:177634:18"/> shall be conformable to Christ's <hi>glo<g ref="char:EOLhyphen"/>rious</hi> body.
+<note place="margin">Phil. 3.21.</note> They shall shine as the <hi>bright<g ref="char:EOLhyphen"/>nesse</hi> of the <hi>Firmament,</hi>
+               <note place="margin">Dan. 12.</note> and be as the <hi>starres</hi> for ever. Yea our Saviour in the 13. of S. <hi>Mathew</hi> enlargeth their <hi>dignity</hi> farther, say<g ref="char:EOLhyphen"/>ing they shall shine as the <hi>Sunne</hi> in the kingdome of their Father.</p>
+            <p>Thus <hi>God</hi> reserves our best <hi>dish last,</hi>
+               <note place="margin">Iob. 42.</note> he blesseth our <hi>later</hi> end, as he did <hi>Iob's,</hi> more then our <hi>beginning.</hi> The <hi>wombe</hi> of the <hi>grave</hi> shall give backe our bodies in greater <hi>perfection</hi> then we receiv'd them from our <hi>Mothers</hi> Belly. The olde <hi>ragged</hi> Coate of our <hi>flesh</hi> shall be <hi>scour'd</hi> from all naturall <hi>infirmities,</hi> and as a <hi>recompence</hi> for <hi>mouldring</hi> in the <hi>earth</hi> it shall be overclad with a <hi>vestment</hi> of immortall <hi>glory.</hi> But who are these that may live, and die in ex<g ref="char:EOLhyphen"/>pectation of such a blisse? They are such, in whom the <hi>spirit</hi> of <hi>Christ</hi> keepes a <hi>stand<g ref="char:EOLhyphen"/>ing house</hi> to dwell in, which is the <hi>period</hi> of my Text, and the <hi>condition</hi> requir'd to <hi>qualifie</hi> vs for rising with <hi>Christ,</hi> the <hi>resi<g ref="char:EOLhyphen"/>ding,</hi>
+               <pb n="28" facs="tcp:177634:19"/> or <hi>inhabiting</hi> of the <hi>Spirit</hi> in vs. He that rais'd <hi>Christ</hi> from the dead, shall also <hi>quicken</hi> your mortall bodies by his <hi>spirit</hi> that <hi>dwells</hi> in you.</p>
+            <p>
+               <hi>Paraeus</hi> herein well notes that this <hi>me<g ref="char:EOLhyphen"/>taphor</hi>
+               <gap reason="foreign" resp="#oxf" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>placeth the <hi>spirit</hi> of God in vs, <hi>non tanquam Hospitem,</hi> not as a stranger, without <hi>respect,</hi> but as an <hi>inhabitant,</hi> whose <hi>tenure</hi> should hold so long as <hi>life</hi> holds. Now where such a <hi>Master</hi> of a house <hi>dwells, in ea imperat,</hi> there he <hi>rules,</hi> and go<g ref="char:EOLhyphen"/>vernes, and lookes to be obey'd. So that if we hope to rise in a <hi>glorify'd</hi> estate, we must not be contented with a <hi>flash</hi> of the <hi>spirit,</hi> which is no sooner <hi>receiv'd</hi> then <hi>lost,</hi> as it was with <hi>Saul,</hi> but we are to labour that the <hi>spirit</hi> may have a <hi>state</hi> of <hi>perpetu<g ref="char:EOLhyphen"/>ity</hi> in the <hi>whole</hi> man. For if our frequent <hi>recidivations,</hi> or <hi>relapses</hi> into sinfull courses doe so <hi>grieue</hi> his <hi>Holynesse</hi> that he quite forsakes our <hi>houses</hi> of <hi>Clay</hi> before their dis<g ref="char:EOLhyphen"/>solution, it will be in vaine to expect that after death He should repaire them a <hi>new,</hi>
+               <pb n="29" facs="tcp:177634:19"/> and provide for us houses <hi>without hands,</hi> and eternall in <hi>heaven.</hi> It is a <hi>measured</hi> truth, Our bodies cannot be <hi>glorified</hi> at the comming of <hi>Christ,</hi> except our soules bee first <hi>sanctified</hi> by the Spirit of <hi>Christ</hi> in<g ref="char:EOLhyphen"/>habiting in us.
+<note place="margin">Ephes. 4.30.</note> I grant 'tis the gracious <hi>of<g ref="char:EOLhyphen"/>fice</hi> of the <hi>holy Ghost</hi> to <hi>seale</hi> us to the day of <hi>Redemption,</hi> but if men shall <hi>slight,</hi> and have no <hi>regard</hi> of the <hi>seale,</hi> delighting to <hi>raze</hi> out his holy <hi>impressions,</hi> whereby their soules become <hi>instar rasae tabulae,</hi> like a bare, <hi>empty</hi> table-booke, wherein no <hi>cha<g ref="char:EOLhyphen"/>racters</hi> of <hi>piety</hi> are sensible, &amp; <hi>visible,</hi> how can they <hi>make account</hi> that his Eye of <hi>Pro<g ref="char:EOLhyphen"/>vidence</hi> should <hi>watch</hi> their bodies when they <hi>lye</hi> in the <hi>dust,</hi> and bring them out to <hi>happinesse?</hi>
+               <note place="margin">1. Cor. 3.16.</note> It is his <hi>goodnesse</hi> to consecrate our bodies as <hi>Temples</hi> for <hi>Himself</hi> to dwell in, but if we <hi>debase,</hi> and demolish these his <hi>Temples</hi> by <hi>sitting</hi> upon the <hi>Lees,</hi> and <hi>persisting</hi> in lewd <hi>impurities,</hi> he will aban<g ref="char:EOLhyphen"/>don these his <hi>dwellings,</hi> and destroy us for destroying them. For if our <hi>Saviour</hi> was so angry with them, which polluted the
+<pb n="30" facs="tcp:177634:20"/>
+               <hi>materiall</hi> temple that he made a whip,
+<note place="margin">S. Ioh. 2.15.</note> and <hi>scourg'd</hi> them thence, much more will the <hi>fury</hi> of his <hi>indignation</hi> burne against such, who cease not to <hi>prostitute</hi> his <hi>spirituall</hi> Temples to all filthinesse and uncleanesse.</p>
+            <p>It is too true that the best of men, while they live here, are troubl'd, and vex'd with the <hi>burthen</hi> of their <hi>corruptions,</hi>
+               <note place="margin">Rom. 8.23.</note> not onely the creatures saith <hi>S. Paul,</hi> but all <hi>wee,</hi> which have receiv'd the <hi>first fruits</hi> of the <hi>Spirit, we,</hi> which are <hi>Apostles,</hi> and <hi>Teachers</hi> of the Church, doe sigh, and groane, in regard the <hi>tang,</hi> and <hi>relish</hi> of the flesh is still sending up noysome vapours to <hi>chill,</hi> and <hi>damp</hi> the devotion of the soule. Yet 'tis as true that if the <hi>holy Ghost</hi> keepe his <hi>dwelling</hi> in a mans <hi>heart,</hi> such a one will finde his <hi>will</hi> reclaim'd, and <hi>reform'd,</hi> his minde <hi>resolv'd</hi> constantly to walke with <hi>God,</hi> so farre as humane <hi>frailty</hi> will <hi>permit.</hi>
+            </p>
+            <p>If I were to preach to a <hi>Congregation,</hi>
+               <note place="margin">Act. 19. v. 2.</note> which like some in the <hi>Acts</hi> did not <hi>know</hi>
+               <pb n="31" facs="tcp:177634:20"/> there was a <hi>holy Ghost,</hi> I could <hi>spinne,</hi> and draw out my discourse to a <hi>vast</hi> extent, by describing the <hi>Notes,</hi> and <hi>Markes</hi> of the <hi>Spirits inhabiting</hi> in us, by laying down the <hi>meanes</hi> how to <hi>retaine</hi> his comfortable <hi>dwelling</hi> with us, but here, where <hi>knowledge</hi> wants not the <hi>roote</hi> of <hi>Iudgement,</hi> my en<g ref="char:EOLhyphen"/>deavour is to speak <hi>Multùm, non Multa;</hi> ra<g ref="char:EOLhyphen"/>rather <hi>much</hi> in a <hi>Litle,</hi> then exceeding <hi>Much,</hi> and yet very <hi>litle.</hi>
+            </p>
+            <p>Now blessed be the <hi>God,</hi> and <hi>Father</hi> of our Lord <hi>Iesus</hi> Christ,
+<note place="margin">1. S. Pet. 11. v. 3.4.</note> which according to his abundant mercy hath begotteen us a<g ref="char:EOLhyphen"/>gaine to a <hi>lively hope</hi> by the Resurrection of <hi>Iesus</hi> Christ from the dead to an <hi>inheri<g ref="char:EOLhyphen"/>tance</hi> incorruptible, undefil'd, that fadeth not away, but is <hi>reserv'd</hi> in heaven, to which we beseech him to bring us out of this <hi>Vale</hi> of misery in his <hi>due</hi> time. AMEN.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
